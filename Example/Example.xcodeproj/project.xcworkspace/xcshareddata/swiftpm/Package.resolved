@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "tooltip",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/stateman92/Tooltip",
+      "state" : {
+        "revision" : "28ad35990142087099b824831af5b2815520cfb8",
+        "version" : "0.0.2"
+      }
+    }
+  ],
+  "version" : 2
+}
